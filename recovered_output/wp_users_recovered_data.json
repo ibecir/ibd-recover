@@ -1,0 +1,28 @@
+{
+  "recovery_info": {
+    "source_file": "wp_users.ibd",
+    "table_name": "wp_users",
+    "recovery_date": "2026-01-20T16:23:28.662682",
+    "total_records": 2
+  },
+  "recovered_data": [
+    {
+      "ID": 1,
+      "user_login": "zemkaart_art",
+      "user_pass": "$P$BmP6qBlu5/CBkFsD3vAH8sFcTDlk5h.",
+      "user_nicename": "zemkaart_art",
+      "user_email": "CBkFsD3vAH8sFcTDlk5h.zemkaart_artmelisa@digital2.bahttps",
+      "user_url": "https://zemkaart.ba",
+      "display_name": "zemkaart_art"
+    },
+    {
+      "ID": 1,
+      "user_login": "",
+      "user_pass": "",
+      "user_nicename": "",
+      "user_email": "melisa@digital2.ba",
+      "user_url": "",
+      "display_name": ""
+    }
+  ]
+}
